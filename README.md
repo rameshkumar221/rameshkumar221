@@ -1,6 +1,6 @@
 # Hi there, I'm Ramesh Kumar Saragadam 👋
 
-### roduct Manager AI at Hey Bubba!  | AI Productivity & Ops Intel Strategist 🤖🚀
+### Product Manager AI at Hey Bubba!  | AI Productivity & Ops Intel Strategist 🤖🚀
 
 I am a technology leader focused on the intersection of **Artificial Intelligence** and **Engineering Productivity**. My mission is to help global enterprises harness the power of **GitHub Copilot** and Generative AI to bridge the gap between human creativity and automation, while maintaining peak operational intelligence.
 
